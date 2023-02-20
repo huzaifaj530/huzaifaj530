@@ -9,7 +9,7 @@
 <hr>
 
 <h4>Github Stats :</h4>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifaj530&show_icons=true&theme=tokyonight" alt="huzaifaj530" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifaj530&show_icons=true&theme=tokyonight&count_private=true" alt="huzaifaj530" /></p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifaj530&show_icons=true&locale=en&theme=tokyonight" alt="huzaifaj530" /></p>
