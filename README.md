@@ -4,7 +4,7 @@
 
 - Hi 👋, I'm Huzaifa Javed<br>
 - CS/AI student from Ghulam Ishaq Khan Institute.
-- 🌱 I’m currently learning **Ai,ML**
+- 🌱 I’m currently learning **Ai,DL,CV,NLP**
 
 <hr>
 
